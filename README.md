@@ -95,7 +95,23 @@
 
 ---
 
+## 🔥 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/RatneshVaibhav/PikoChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RatneshVaibhav&repo=PikoChat&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/RatneshVaibhav/Therapist-Buddy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RatneshVaibhav&repo=Therapist-Buddy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RatneshVaibhav/E-Commerce-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RatneshVaibhav&repo=E-Commerce-Backend&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
 
 ---
 
