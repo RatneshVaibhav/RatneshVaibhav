@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ratnesh Vaibhav</h1>
+<h1 align="center">Ratnesh Vaibhav</h1>
 <h3 align="center">Engineering systems that don't panic under pressure.</h3>
 
 <p align="center">
