@@ -113,6 +113,7 @@
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center">🧠 Therapist-Buddy</h3>
       <p align="center">
@@ -127,6 +128,7 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
       <h3 align="center">🛒 E-Commerce-Backend</h3>
@@ -142,7 +144,23 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
-    <td width="50%"></td>
+
+    <td width="50%" align="center">
+      <h3 align="center">📄 DOCGLOW-AI-RAG</h3>
+      <p align="center">
+        <a href="https://github.com/RatneshVaibhav/DOCGLOW-AI-RAG">
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        AI-powered RAG application for intelligent document querying and insights
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-RAG-blue?style=flat-square"/>
+      </p>
+    </td>
   </tr>
 </table>
 
