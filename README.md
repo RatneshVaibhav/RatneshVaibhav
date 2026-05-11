@@ -80,7 +80,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RatneshVaibhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=RatneshVaibhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RatneshVaibhav&theme=tokyonight)"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=RatneshVaibhav&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 </p>
