@@ -64,8 +64,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
----
-
 ## 🤖 AI & Retrieval Systems
 
 <p>
@@ -78,8 +76,6 @@
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLM_Pipelines-1f2937?style=for-the-badge"/>
 </p>
-
----
 
 ### 🧰 Tools & Infrastructure
 
@@ -165,8 +161,6 @@
 - Backend architecture that scales without drama
 - System-level debugging — Linux, strace, perf, the works
 - Observability and debugging for distributed AI systems
-
----
 
 ---
 
