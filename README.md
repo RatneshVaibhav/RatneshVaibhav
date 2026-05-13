@@ -1,5 +1,5 @@
 <h1 align="center">Ratnesh Vaibhav</h1>
-<h3 align="center">Engineering systems that don't panic under pressure.</h3>
+<h3 align="center">Building resilient backend systems, AI pipelines, and retrieval infrastructure.</h3>
 
 <p align="center">
   ⚙️ Linux &nbsp;•&nbsp; 🔧 Backend &nbsp;•&nbsp; 🚀 DevOps &nbsp;•&nbsp; 🧠 Systems Thinking
@@ -13,11 +13,11 @@
 
 ## 🧠 About Me
 
-- 🛠️ Working deeply with **Linux, Git, and backend systems**
-- ⚙️ Debugging real-world issues — not tutorial projects
-- 📡 Building toward **scalable systems & infrastructure**
-- 🧪 Exploring **cryptographic systems & blockchain concepts** *(learning phase)*
-- 🎯 Focus: Build systems that survive real-world chaos
+- ⚙️ Building production-style backend systems with async workflows, queues, and event-driven architectures
+- 🧠 Exploring AI infrastructure — RAG pipelines, vector retrieval systems, semantic memory, and grounded generation
+- 📡 Interested in observability, fault isolation, and distributed system reliability
+- 🔍 Focused on understanding how intelligent systems behave under real-world scale and failure conditions
+- 🐧 Deeply comfortable with Linux, debugging, and low-level system tooling
 
 ---
 
@@ -63,6 +63,23 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
+
+---
+
+## 🤖 AI & Retrieval Systems
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Search-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Pipelines-1f2937?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🧰 Tools & Infrastructure
 
@@ -114,7 +131,7 @@
       <a href="https://github.com/RatneshVaibhav/Therapist-Buddy">
         <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <p>An AI-powered mental wellness companion for daily support</p>
+      <p>Event-driven AI conversation infrastructure with async pipelines, semantic memory, and resilient queue orchestration</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </td>
@@ -135,7 +152,7 @@
       <a href="https://github.com/RatneshVaibhav/DOCGLOW-AI-RAG">
         <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <p>AI-powered RAG application for intelligent document querying and insights</p>
+      <p>Production-style retrieval pipeline with vector search, grounded generation, streaming responses, and source-cited document querying</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/AI--RAG-blue?style=flat-square"/>
@@ -147,9 +164,21 @@
 
 - Backend architecture that scales without drama
 - System-level debugging — Linux, strace, perf, the works
-- Understanding production-scale failure modes before they find me
+- Observability and debugging for distributed AI systems
 
 ---
+
+---
+
+## 🧪 Current Exploration
+
+- Agent memory architectures
+- Retrieval-Augmented Generation (RAG)
+- AI observability & tracing
+- Distributed async workflows
+- Queue reliability & failure recovery
+- Vector databases & semantic search
+- OpenTelemetry for AI systems
 
 ## ⚡ Philosophy
 
