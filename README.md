@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-## 🤖 AI & Retrieval Systems
+### 🤖 AI & Retrieval Systems
 
 <p>
   <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=white"/>
